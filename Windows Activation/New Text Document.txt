@@ -1,0 +1,18 @@
+
+
+
+Important youtube Video.
+https://www.youtube.com/watch?v=EodGiXkS8K8
+
+
+
+
+
+
+
+C:\Windows\system32>slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+C:\Windows\system32>slmgr  /skms kms.xspace.in
+
+C:\Windows\system32>slmgr /ato
+http://www.downloadsroat.com/2017/07/kmsauto-net-2017-v150-rar-file.html
