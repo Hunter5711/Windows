@@ -1,0 +1,3 @@
+https://www.kali.org/tutorials/kali-on-the-windows-subsystem-for-linux/
+
+https://blogs.technet.microsoft.com/positivesecurity/2017/09/01/setting-up-kali-linux-in-docker-on-windows-10/
