@@ -1,3 +1,8 @@
 https://www.kali.org/tutorials/kali-on-the-windows-subsystem-for-linux/
 
 https://blogs.technet.microsoft.com/positivesecurity/2017/09/01/setting-up-kali-linux-in-docker-on-windows-10/
+
+
+Just override the git global id . 
+So that when we push from  a specific repository it  doesnt show an invalid email address there.
+
